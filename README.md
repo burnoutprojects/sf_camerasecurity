@@ -1,15 +1,13 @@
-### [buy me coffe](https://buymeacoffee.com/soufiane_11)
+## 🛠️ WIP: Development branch it's not suitable for production use. Use the [main](https://github.com/burnoutprojects/sf_camerasecurity) branch instead.
 
-# We have a goal to complete 1000 member in discord.
-# [Join Discord](https://discord.gg/dcm4TNtbGQ)
-
-# Framework Support
-## [QBCore](https://github.com/qbcore-framework) | [ESX](https://github.com/esx-framework)
 # SF Camera Security
 For all support questions, ask in our [Discord](https://discord.gg/dcm4TNtbGQ) support chat. Do not create issues if you need help. Issues are for bug reporting and new features only.
 
 # Preview
 - [Youtube Link](https://youtu.be/lK5qils5oCA?si=aGbLCtcj-wX7Kpxx)
+
+# Supported Frameworks
+## [QBCore](https://github.com/qbcore-framework) | [ESX](https://github.com/esx-framework)
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
