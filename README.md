@@ -7,10 +7,15 @@ For all support questions, ask in our [Discord](https://discord.gg/dcm4TNtbGQ) s
 - [Youtube Link](https://youtu.be/lK5qils5oCA?si=aGbLCtcj-wX7Kpxx)
 
 # Supported Frameworks
-## [QBCore](https://github.com/qbcore-framework) | [ESX](https://github.com/esx-framework)
+- [QBCore](https://github.com/qbcore-framework)
+- [ESX](https://github.com/esx-framework)
+
+# Supported Inventory Systems
+- [✔️](## "Supported") [ox_inventory](https://github.com/overextended/ox_inventory)
+- [✔️](## "Supported") [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
+- [🛠️](## "WIP") [qs-inventory](https://buy.quasar-store.com/package/6304046)
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
 - [ox_lib](https://github.com/overextended/ox_lib/releases)
 
